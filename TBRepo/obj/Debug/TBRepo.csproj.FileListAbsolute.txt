@@ -1,0 +1,38 @@
+E:\ADVANCED TOPICS IN PROGRAMMING II\Project-MidTerm\TravelBlog\TBRepo\bin\Debug\TBRepo.dll.config
+E:\ADVANCED TOPICS IN PROGRAMMING II\Project-MidTerm\TravelBlog\TBRepo\bin\Debug\TBRepo.dll
+E:\ADVANCED TOPICS IN PROGRAMMING II\Project-MidTerm\TravelBlog\TBRepo\bin\Debug\TBRepo.pdb
+E:\ADVANCED TOPICS IN PROGRAMMING II\Project-MidTerm\TravelBlog\TBRepo\bin\Debug\EntityFramework.dll
+E:\ADVANCED TOPICS IN PROGRAMMING II\Project-MidTerm\TravelBlog\TBRepo\bin\Debug\EntityFramework.SqlServer.dll
+E:\ADVANCED TOPICS IN PROGRAMMING II\Project-MidTerm\TravelBlog\TBRepo\bin\Debug\TBEntity.dll
+E:\ADVANCED TOPICS IN PROGRAMMING II\Project-MidTerm\TravelBlog\TBRepo\bin\Debug\TBEntity.pdb
+E:\ADVANCED TOPICS IN PROGRAMMING II\Project-MidTerm\TravelBlog\TBRepo\bin\Debug\EntityFramework.xml
+E:\ADVANCED TOPICS IN PROGRAMMING II\Project-MidTerm\TravelBlog\TBRepo\bin\Debug\EntityFramework.SqlServer.xml
+E:\ADVANCED TOPICS IN PROGRAMMING II\Project-MidTerm\TravelBlog\TBRepo\obj\Debug\TBRepo.csprojResolveAssemblyReference.cache
+E:\ADVANCED TOPICS IN PROGRAMMING II\Project-MidTerm\TravelBlog\TBRepo\obj\Debug\TBRepo.csproj.CoreCompileInputs.cache
+E:\ADVANCED TOPICS IN PROGRAMMING II\Project-MidTerm\TravelBlog\TBRepo\obj\Debug\TBRepo.dll
+E:\ADVANCED TOPICS IN PROGRAMMING II\Project-MidTerm\TravelBlog\TBRepo\obj\Debug\TBRepo.pdb
+D:\AIUB\Semester\11th Sem\Dot Net\ATP2-TravelBD\TBRepo\bin\Debug\TBRepo.dll.config
+D:\AIUB\Semester\11th Sem\Dot Net\ATP2-TravelBD\TBRepo\bin\Debug\TBRepo.dll
+D:\AIUB\Semester\11th Sem\Dot Net\ATP2-TravelBD\TBRepo\bin\Debug\TBRepo.pdb
+D:\AIUB\Semester\11th Sem\Dot Net\ATP2-TravelBD\TBRepo\bin\Debug\EntityFramework.dll
+D:\AIUB\Semester\11th Sem\Dot Net\ATP2-TravelBD\TBRepo\bin\Debug\EntityFramework.SqlServer.dll
+D:\AIUB\Semester\11th Sem\Dot Net\ATP2-TravelBD\TBRepo\bin\Debug\TBEntity.dll
+D:\AIUB\Semester\11th Sem\Dot Net\ATP2-TravelBD\TBRepo\bin\Debug\TBEntity.pdb
+D:\AIUB\Semester\11th Sem\Dot Net\ATP2-TravelBD\TBRepo\bin\Debug\EntityFramework.xml
+D:\AIUB\Semester\11th Sem\Dot Net\ATP2-TravelBD\TBRepo\bin\Debug\EntityFramework.SqlServer.xml
+D:\AIUB\Semester\11th Sem\Dot Net\ATP2-TravelBD\TBRepo\obj\Debug\TBRepo.csprojResolveAssemblyReference.cache
+D:\AIUB\Semester\11th Sem\Dot Net\ATP2-TravelBD\TBRepo\obj\Debug\TBRepo.dll
+D:\AIUB\Semester\11th Sem\Dot Net\ATP2-TravelBD\TBRepo\obj\Debug\TBRepo.pdb
+E:\ADVANCED TOPICS IN PROGRAMMING II\Project-MidTerm\ATP2-TravelBD\TBRepo\bin\Debug\TBRepo.dll.config
+E:\ADVANCED TOPICS IN PROGRAMMING II\Project-MidTerm\ATP2-TravelBD\TBRepo\bin\Debug\TBRepo.dll
+E:\ADVANCED TOPICS IN PROGRAMMING II\Project-MidTerm\ATP2-TravelBD\TBRepo\bin\Debug\TBRepo.pdb
+E:\ADVANCED TOPICS IN PROGRAMMING II\Project-MidTerm\ATP2-TravelBD\TBRepo\bin\Debug\EntityFramework.dll
+E:\ADVANCED TOPICS IN PROGRAMMING II\Project-MidTerm\ATP2-TravelBD\TBRepo\bin\Debug\EntityFramework.SqlServer.dll
+E:\ADVANCED TOPICS IN PROGRAMMING II\Project-MidTerm\ATP2-TravelBD\TBRepo\bin\Debug\TBEntity.dll
+E:\ADVANCED TOPICS IN PROGRAMMING II\Project-MidTerm\ATP2-TravelBD\TBRepo\bin\Debug\TBEntity.pdb
+E:\ADVANCED TOPICS IN PROGRAMMING II\Project-MidTerm\ATP2-TravelBD\TBRepo\bin\Debug\EntityFramework.xml
+E:\ADVANCED TOPICS IN PROGRAMMING II\Project-MidTerm\ATP2-TravelBD\TBRepo\bin\Debug\EntityFramework.SqlServer.xml
+E:\ADVANCED TOPICS IN PROGRAMMING II\Project-MidTerm\ATP2-TravelBD\TBRepo\obj\Debug\TBRepo.csprojResolveAssemblyReference.cache
+E:\ADVANCED TOPICS IN PROGRAMMING II\Project-MidTerm\ATP2-TravelBD\TBRepo\obj\Debug\TBRepo.csproj.CoreCompileInputs.cache
+E:\ADVANCED TOPICS IN PROGRAMMING II\Project-MidTerm\ATP2-TravelBD\TBRepo\obj\Debug\TBRepo.dll
+E:\ADVANCED TOPICS IN PROGRAMMING II\Project-MidTerm\ATP2-TravelBD\TBRepo\obj\Debug\TBRepo.pdb

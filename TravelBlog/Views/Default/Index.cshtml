@@ -1,0 +1,41 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="~/Content/bootstrap.min.css">
+</head>
+<body>
+
+    <div class="jumbotron text-center">
+        <h1>Welcome to Bangladesh</h1>
+        <p><b>Here You can know Bangladesh</b></p>
+        <p><b>Share Bangladesh in your own point of view</b></p>
+        <p><b>Can search for Informations of places in Bangladesh</b></p>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
+                <button type="button" class="btn btn-dark" style="width:100%;padding:20px" onclick="location.href='@Url.Action("Divisions","Default")'">A grimps of Bangladesh</button>
+            </div>
+            <div class="col-sm-4">
+                <button type="button" class="btn btn-dark" style="width:100%;padding:20px" onclick="location.href='@Url.Action("UserLogin","Default")'">Login</button>
+            </div>
+            <div class="col-sm-4">
+                <button type="button" class="btn btn-dark" style="width:100%;padding:20px" onclick="location.href='@Url.Action("Regester","Default")'">Register</button>
+            </div><br />
+            <div class="col-sm-4">
+                <button type="button" class="btn btn-dark" style="width:1110px;padding:20px; margin-top:20px" onclick="location.href='@Url.Action("AdminLogin","Default")'">Admin Panel</button>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

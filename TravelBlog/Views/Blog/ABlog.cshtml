@@ -1,0 +1,41 @@
+﻿@model IEnumerable<TBEntity.Blog>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AdminList</title>
+</head>
+<body>
+    <p>
+
+    </p>
+    <table border="1" class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Title)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Blog Details", "BlogDetails", new { id = item.Id }) |
+                        @Html.ActionLink("Delete", "DeleteBlog", new { id = item.Id })
+                    </td>
+            </tr>
+        }
+
+    </table>
+</body>
+</html>
